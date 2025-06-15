@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: medikart
+  data:
+    mongodb:
+      uri: mongodb://medikart_user:medikart_pass@localhost:27017/medikart?authSource=admin
+
+jwt:
+  auth:
+    app: medikart
+    secret_key: mysecretjwtkey123
+    expires_in: 7200
+
+google:
+  client:
+    id: your-google-client-id.apps.googleusercontent.com
