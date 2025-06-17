@@ -40,7 +40,7 @@ A full-stack application for managing doctor appointments, built with Spring Boo
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Shorya-Sharma/Doctor-Appointment-App
    cd Doctor-Appointment-App
    ```
 
